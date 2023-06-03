@@ -1,27 +1,23 @@
-# Código de Conducta
+# Code of Conduct
 
-## Nuestro compromiso
+## Our commitment
 
-Nos esforzamos por mantener un ambiente inclusivo, respetuoso y colaborativo para todos los colaboradores y usuarios de este proyecto. Valoramos y celebramos la diversidad de experiencias, perspectivas y habilidades de nuestra comunidad.
+We strive to maintain an inclusive, respectful, and collaborative environment for all contributors and users of this project. We value and celebrate the diversity of experiences, perspectives, and abilities of our community.
 
-## Pautas de comportamiento
+## Behaviour standards
 
-Se espera que todos los participantes del proyecto se adhieran a las siguientes pautas de comportamiento:
+All project participants are expected to adhere to the following behavior guidelines:
 
-- Sea respetuoso y cortés en todas las interacciones.
-- Acepte y valore las diferencias de opiniones y experiencias.
-- No haga comentarios ofensivos, discriminatorios o acosadores.
-- Evite comportamientos que puedan generar un ambiente intimidante o hostil.
-- Sea abierto a la crítica constructiva y esté dispuesto a aprender de los demás.
+- Be respectful and courteous in all interactions.
+- Accept and value differences of opinion and experience.
+- Do not make offensive, discriminatory or harassing comments.
+- Avoid behaviors that may create an intimidating or hostile environment.
+- Be open to constructive criticism and be willing to learn from others.
 
-## Reporte de incidentes
+## Consequences
 
-Si experimentas o presencias cualquier violación de este código de conducta, por favor, repórtalo. Contacta a [nombre-de-contacto] en [correo-electrónico-de-contacto]. Asegúrate de proporcionar detalles relevantes sobre el incidente, como el momento y lugar en que ocurrió, las personas involucradas y cualquier evidencia disponible.
+Behaviors that violate this code of conduct will not be tolerated. We reserve the right to take appropriate action in response to any reported incident. This may include warnings, suspension, or expulsion from the project community.
 
-## Consecuencias
+## Attribution
 
-Los comportamientos que violen este código de conducta no serán tolerados. Nos reservamos el derecho de tomar medidas apropiadas en respuesta a cualquier incidente reportado. Esto puede incluir advertencias, suspensión o expulsión de la comunidad del proyecto.
-
-## Atribución
-
-Este código de conducta está basado en el [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0. Puedes obtener una copia del código de conducta en el repositorio [aquí](https://github.com/contributor-covenant/contributor-covenant/blob/master/CODE_OF_CONDUCT.md).
+This code of conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0. You can get a copy of the code of conduct in the repository [here](https://github.com/DanDevCode/DanDevCode.github.io/blob/main/CODE_OF_CONDUCT.md).
