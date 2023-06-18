@@ -24,7 +24,7 @@ The reason for this is either because its support has ended or because the versi
 <li>The page does not load correctly</li>
 <li>Errors 404, 505 or more HTTP errors for no reason</li>
 <li>You cannot access the page</li>
-<br><br>
+<br>
 NOTE: Sometimes the errors come from your device.
 
 <!--
