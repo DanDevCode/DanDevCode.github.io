@@ -90,7 +90,7 @@ h3 {
   font-size: 13px;
   color: rgb(160, 160, 160);
   text-align: center;
-  top: 0;
+  top: 18%;
   left: 50%;
   transform: translateX(-50%);
 }
